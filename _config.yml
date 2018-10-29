@@ -1,2 +1,4 @@
     name: Aheluc
     markdown: kramdown
+
+theme: jekyll-theme-slate
