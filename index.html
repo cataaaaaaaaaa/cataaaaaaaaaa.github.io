@@ -5,7 +5,9 @@ title: Aheluc的机器学习
 <div class="blurb">
 	<h1>Aheluc的机器学习</h1>
 	<p>做笔记，记录学习心得</p>
+	<ul>
 	{% for post in site.posts %}
 		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	{% endfor %}
+	</ul>
 </div><!-- /.blurb -->
