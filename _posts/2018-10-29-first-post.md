@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "preparing my paper for ICLR 2023"
-date: 2022-08-20
+title: "Writing a paper"
+date: 2024-01-29
 ---
 All experiments have been finished.
